@@ -1,0 +1,48 @@
+* {
+	background-color: rgb(246, 246, 246);
+}
+
+
+h1 {
+	color: red;
+}
+
+h2 {
+	color: red;
+}
+
+.chiron p {
+	color: #0bb0ee;
+}
+
+.crysler p {
+	color: #a9adb1;
+}
+
+
+.venom p {
+	color: #c7d8ed;
+
+}
+
+.venom span {
+	color: rgb(162, 35, 35);
+}
+
+
+.koenigsegg p {
+	color: #93bcbd;
+}
+
+.lotec p {
+	color: #97bf89;
+}
+
+.saleen p {
+	color: #ebd54a;
+}
+
+
+.tuatara p {
+	color: #b9c4bc;
+}
